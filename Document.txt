@@ -1,0 +1,27 @@
+Packages to install:
+pymysql
+djangorestframework
+sqlalchemy
+
+
+Configuration:
+Asta/settings.py  set database connection such as user, password
+DBAPI/__init__.py set connection string to mysql
+
+
+Run in command line:
+python manage.py makemigrations
+python manage.py migrate
+
+
+Run test:
+python manage.py test
+
+
+Run server:
+python manage.py runserver localhost:9000
+open browser: localhost:9000/api/db/alchemycreate
+In the web page, you can input values in credit card
+You could try this json. {'ID': 'ID1', 'name': 'Jack', 'deposit': 200}
+Press the 'post' button. you can see the response.
+In the webpage, hit 'get' button. You can see your record.
