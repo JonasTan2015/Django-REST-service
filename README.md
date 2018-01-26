@@ -10,3 +10,10 @@ Dependency packages:
 ====================
 - Djangorestframework
 - pymysql
+
+
+How to run
+====================
+## conda install restframework
+## conda install pymysql
+
