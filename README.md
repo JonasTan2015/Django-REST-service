@@ -1,6 +1,12 @@
-# Funding
+ Funding
+ =================
+
+My previous job position was developing **REST API** with **Python Django framework**. This is a demonstration and a study into **restframework of Django**. 
 
 
-Installed packages:
-Djangorestframework
-pymysql
+
+
+Dependency packages:
+====================
+- Djangorestframework
+- pymysql
