@@ -14,6 +14,9 @@ Dependency packages:
 
 How to run
 ====================
-## conda install restframework
-## conda install pymysql
-
+```
+ conda install restframework
+ conda install pymysql
+ git clone
+ python manage.py runserver <port>
+ ```
