@@ -1,4 +1,4 @@
- Funding
+ Django REST service for Funding (a financial company)
  =================
 
 My previous job position was developing **REST API** with **Python Django framework**. This is a demonstration and a study into **restframework of Django**. 
